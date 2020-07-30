@@ -4,7 +4,7 @@
 
 Learning basic communication of REST API in server.
 
-### Package used in here: 
+### Packages used in here: 
 
 - framework: express
 - ORM: sequelize
