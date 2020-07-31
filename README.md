@@ -1,7 +1,5 @@
 # REST-API
 
-## Week 1 D1 - REST API implementation
-
 Learning basic communication of REST API in server.
 
 ### Packages used in here: 
